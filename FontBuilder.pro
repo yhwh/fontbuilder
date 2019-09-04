@@ -73,6 +73,7 @@ SOURCES += src/main.cpp \
     src/layouters/gridlinelayouter.cpp \
     src/exporters/myguiexporter.cpp \
     src/exporters/bmfontexporter.cpp \
+    src/exporters/phaserexporter.cpp \
     src/exporters/ageexporter.cpp 
     
 
@@ -118,6 +119,7 @@ HEADERS += src/fontbuilder.h \
     src/layouters/gridlinelayouter.h \
     src/exporters/myguiexporter.h \
     src/exporters/bmfontexporter.h \
+    src/exporters/phaserexporter.h \
     src/exporters/ageexporter.h 
     
 
